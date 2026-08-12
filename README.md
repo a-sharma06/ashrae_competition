@@ -4,7 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
 [![Dask](https://img.shields.io/badge/Dask-Distributed-yellow.svg)](https://dask.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)](LICENSE)
 
 **Advanced Deep Learning Solution for Building Energy Consumption Prediction**
 
@@ -149,7 +149,7 @@ This technical solution demonstrates capabilities relevant to:
 ---
 
 **Developed by**: Akshay Sharma, Konica Mulani  
-**License**: MIT  
+**License**: All Rights Reserved  
 **Technologies**: Python, TensorFlow, Keras, Dask, Pandas  
 **Domain**: Energy Analytics, IoT, Time Series Forecasting  
 
